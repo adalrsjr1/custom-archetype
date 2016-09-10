@@ -1,0 +1,13 @@
+<archetype>
+  <id>custom-archetype</id>
+  <sources>
+    <source>src/main/groovy/App.groovy</source>
+  </sources>
+  <resources>
+  	<resource>src/main/resources/log4j2.xml</resource>
+  	<resource>src/main/resources/logs/</resource>
+  </resources>
+  <testSources>
+    <source>src/test/groovy/AppTest.groovy</source>
+  </testSources>
+</archetype>
