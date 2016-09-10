@@ -6,3 +6,5 @@ My custom archetype - Maven with the following dependencies:
 * Log4j2
 * Jackson Core - JSON 
 * Google Guava
+
+Put the archetype-catalog in root of .m2 folder
